@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Justin Edwards
+- ![download](https://github.com/user-attachments/assets/daa9a6cc-0a80-40bf-91da-aadc04eac23a)
+
 - 👀 I'm interested in software engineering and I've always had a love and interst in computers/tech due to my dad working in tech and school programs which give me more experience with coding and computers.
 - 🌱 I'm currently learning python while working at Bloomberg L.P and have a little experience with html but not much.
 - 💞️I'm looking to collaborate on python projects that can help me practice and build on top of my current coding knowledge
